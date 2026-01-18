@@ -1,0 +1,15 @@
+# 日志文件
+*.log
+
+# 依赖目录
+node_modules/
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# Claude Code
+.claude
+
+# Nvm Desktop
+.nvmdrc
