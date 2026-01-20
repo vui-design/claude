@@ -549,7 +549,7 @@ cc --plugin-dir /path/to/plugin
 
 ### Imperative/Infinitive Form
 
-Write using verb-first instructions, not second person:
+Use imperative sentences/infinitive forms (using verb-first instructions), rather than describing in the second person.
 
 ❌ **Incorrect (second person):**
 ```
@@ -599,7 +599,7 @@ Extract fields with grep.
 Validate values before use.
 ```
 
-## Common Mistakes to Avoid
+## Common Mistakes
 
 ### Mistake 1: Weak Trigger Description
 
